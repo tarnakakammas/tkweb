@@ -4,12 +4,12 @@
 <template>
   <section class="dFlex homeContainer">
     <figure class="dFlex halfFlex">
-      <img src="src/images/ntr-1.png" alt="Ntr" class="homeImg">
+      <img src="/src/images/ntr-1.png" alt="Ntr" class="homeImg">
     </figure>
     <section class="backBg halfFlex">
       <aside class="content">
         <figure class="logo">
-          <img src="src/images/logo.png" alt="Tarnaka Kammas" class="logo">
+          <img src="/src/images/logo.png" alt="Tarnaka Kammas" class="logo">
         </figure>
         <header>
           <h3>We are</h3>
